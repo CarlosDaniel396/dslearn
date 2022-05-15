@@ -23,6 +23,6 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 * Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 
 <div align="center">
-<img src="https://github.com/CarlosDaniel396/dslearn/blob/master/dslearn.png"/>
+<img src="https://github.com/CarlosDaniel396/dslearn/blob/master/modelo-conceitual-com-forum.png"/>
 </div>
 
